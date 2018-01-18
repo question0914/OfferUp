@@ -1,2 +1,2 @@
 # OfferUp
-Automated UI test for OfferUp on Android using Apium and selenium
+Automated UI test for OfferUp on Android using Apium and selenium framework
